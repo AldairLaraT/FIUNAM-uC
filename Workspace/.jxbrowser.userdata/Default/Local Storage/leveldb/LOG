@@ -1,2 +1,3 @@
-2024/11/14-19:20:50.297 38d4 Creating DB D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\Local Storage\leveldb since it was missing.
-2024/11/14-19:20:50.307 38d4 Reusing MANIFEST D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/26-12:44:24.900 6908 Reusing MANIFEST D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/26-12:44:24.902 6908 Recovering log #3
+2024/11/26-12:44:24.903 6908 Reusing old log D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\Local Storage\leveldb/000003.log 

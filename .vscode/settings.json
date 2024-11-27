@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "sysctl.h": "c",
+        "nvic.h": "c",
+        "gpio.h": "c",
+        "winapifamily.h": "c",
+        "adc.h": "c"
+    }
+}

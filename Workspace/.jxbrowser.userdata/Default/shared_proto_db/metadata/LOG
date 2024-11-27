@@ -1,2 +1,3 @@
-2024/11/14-19:20:50.231 301c Creating DB D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\shared_proto_db\metadata since it was missing.
-2024/11/14-19:20:50.235 301c Reusing MANIFEST D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\shared_proto_db\metadata/MANIFEST-000001
+2024/11/26-12:44:24.837 4070 Reusing MANIFEST D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\shared_proto_db\metadata/MANIFEST-000001
+2024/11/26-12:44:24.843 4070 Recovering log #3
+2024/11/26-12:44:24.844 4070 Reusing old log D:\OneDrive\Workspace\CCS\FIUNAM-uC\Workspace\.jxbrowser.userdata\Default\shared_proto_db\metadata/000003.log 
